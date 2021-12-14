@@ -1298,7 +1298,7 @@
 			content = content.find('.' + this.settings.nestedItemSelector);
 		}
 
-		content.filter(function() {
+		content.filter(() => {
 			return this.nodeType === 1;
 		}).each($.proxy(function(index, item) {
 			item = this.prepare(item);

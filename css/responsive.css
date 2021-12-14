@@ -216,7 +216,7 @@
 	
 }
 .cc_slider_cont1 li:first-child{
-	margin-left:-8px;
+	margin-left:8px;
 }
 .abt_section{
 	margin-left:2px;
@@ -1712,9 +1712,6 @@ input[type=range]{
 .nav .navbar-nav{
 	float:none;
 }
-.navbar-nav{
-	border:2px solid #2ec8a6;
-}
 .team_icon_hover ul li{
 
 	margin-left: 20px;
@@ -2408,14 +2405,14 @@ input[type=range] {
 	width:70%; 
 	font-size:14px;
 }
-.cc_slider_cont1 li:last-child a{
+/* .cc_slider_cont1 li:last-child a{
 	display:none;
-}
+} */
 .cc_slider_cont1 li:first-child {
     margin-left: 0px;
 }
 .cc_slider_cont1 ul li a{
-	margin-left:48px;
+	margin-left:50%;
 }
 .cc_main_slide1, 
 .cc_main_slide2, 
@@ -3097,11 +3094,9 @@ input[type=range] {
 .slider_main_wrapper .cc_slider_cont1 p{
 	width:60%; font-size:14px;
 }
-.cc_slider_cont1 li:last-child a{
-	display:none;
-}
+
 .cc_slider_cont1 li:first-child {
-    margin-left: 65px;
+    margin-left: 5px;
 }
 .our_doc_icn_hovr ul{
 	margin-left:30px;
@@ -3113,7 +3108,7 @@ input[type=range] {
 	margin-top:20px;
 }
 .cc_slider_cont1 ul li a{
-	margin-left:57px;
+	margin-left:50%;
 }
 .slider_main_wrapper .medi {
     margin-top: -396px;
@@ -3651,9 +3646,7 @@ input[type=range] {
 .slider_main_wrapper .cc_slider_cont1 p{
 	width:80%; font-size:14px;
 }
-.cc_slider_cont1 li:last-child a{
-	display:none;
-}
+
 .cc_slider_cont1 li:first-child {
     margin-left: -10px;
     padding-top: 20px;
